@@ -73,3 +73,11 @@ The most common use of the this keyword is to eliminate the confusion between cl
 
 
 
+# What are classes? what are getters and setters?
+
+How do you declare private and static variables in classes
+Create a Calculator class, it should be able to add, reduce multiply and divide. it should have a value getter, and that should return final output. keep the history of changes made as well, and keep that private, and a user should be able to see previous changes made to the value
+What is currying?
+Write a program to flatten an array
+// input: [ 1, [ 2, 3 ], [ 3 ], [ [ [ 5]],  6]  ]
+// output => [ 1, 2, 3, 3, 5, 6 ]
