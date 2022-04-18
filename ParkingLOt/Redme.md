@@ -136,7 +136,7 @@ React-Redux uses shallow equality checking to determine whether the component it
 # Using classes write a program to build a Parking Lot.
 
 
-<script>
+
 
     class Spot {
   constructor({ size, vehicle } = {}) {
@@ -263,4 +263,3 @@ parkingLotManager.placeVehicle(car4)
 
 console.log(parkingLotManager);
 
-</script>
