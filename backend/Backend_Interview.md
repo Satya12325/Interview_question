@@ -60,17 +60,17 @@ ans-
 
 Depending upon the usage requirements, there are following types of databases available in the market −
 
-->Centralised database.
-->Distributed database.
-->Personal database.
-->End-user database.
-->Commercial database.
-->NoSQL database.
-->Operational database.
-->Relational database.
-->Cloud database.
-->Object-oriented database.
-->Graph database.
+* Centralised database.
+* Distributed database.
+* Personal database.
+* End-user database.
+* Commercial database.
+* NoSQL database.
+* Operational database.
+* Relational database.
+* Cloud database.
+* Object-oriented database.
+* Graph database.
 
 <img src="https://www.tutorialspoint.com/assets/questions/images/113180-1532341943.jpg" />
 
